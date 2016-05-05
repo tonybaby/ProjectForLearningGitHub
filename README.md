@@ -1,2 +1,2 @@
 # ProjectForLearningGitHub
-Project source code for learning GitHub.
+Project source code for learning GitHub
